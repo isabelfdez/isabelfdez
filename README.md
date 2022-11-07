@@ -6,6 +6,10 @@ I am a 22 year old mathematician studying programming and coding at [42 school](
 - 🌱 I’m currently learning `C++`
 - 📫 How to reach me: https://www.linkedin.com/in/isabel-fernandez-abad/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelfdez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelfdez&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
