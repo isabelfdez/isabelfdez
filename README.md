@@ -2,8 +2,8 @@
 
 I am a 22 year old mathematician studying programming and coding at [42 school](https://www.42madrid.com/). I love learning new things and I hope to pursue a career where I can unify both of my passions, maths and coding.
 
-- 🔭 I’m currently working on `ft_trascendence`
-- 🌱 I’m currently learning `Python`
+- 🔭 I’m currently working on `bootcamp_python`
+- 🌱 I’m currently learning `Python` and Quatum Computing!
 - 📫 How to reach me: https://www.linkedin.com/in/isabel-fernandez-abad/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelfdez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
